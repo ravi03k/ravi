@@ -1,0 +1,13 @@
+import com.kinvey.android.Client;
+…
+final Client mKinveyClient = new Client.Builder('kid_Hk-ehpryf',
+  '0f9d06b202f0445288696b956b243d7a',
+  this.getApplicationContext()).build();
+  
+  HOST URL - https://baas.kinvey.com
+  APP KEY - kid_Hk-ehpryf
+  APP SECRET KEY - 0f9d06b202f0445288696b956b243d7a
+  
+  
+  
+  GOOGLE MAP KEY - AIzaSyDIzAzA7VsSURFLkH-KwHDsap-uMUx6O-M
